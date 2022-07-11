@@ -165,22 +165,3 @@ int main() {
   printList();
   cout << "\n";
 }
-
-/*
-  let 3 candidates be A, B, C
-  A = 687905 votes
-  B = 495086 votes
-  C = 93756 votes 
-
-  Total votes of 3 candidates in the election is = A + B + C
-                                                 = 687905 + 495086 + 93756
-                                                 = 1276747
-  
-  No. of invalid votes  = 13849
-  No. of persons did not vote  = 25467
-
-  Therefore total number of votes = 1276747 - 13849 - 25467
-                                  = 1237431
-
-  Total no of votes registered = 1237431
-*/
